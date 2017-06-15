@@ -1,0 +1,9 @@
+﻿  server_compiler.cpp
+c:\users\spankarn\dropbox\projects\ipa\ipa\ipa\server_compiler.cpp(99): warning C4267: '=': conversion from 'size_t' to 'ABC', possible loss of data
+c:\users\spankarn\dropbox\projects\ipa\ipa\ipa\server_compiler.cpp(101): warning C4267: '=': conversion from 'size_t' to 'ABC', possible loss of data
+c:\users\spankarn\dropbox\projects\ipa\ipa\ipa\server_compiler.cpp(328): warning C4267: 'initializing': conversion from 'size_t' to 'u16', possible loss of data
+c:\users\spankarn\dropbox\projects\ipa\ipa\ipa\server_compiler.cpp(336): warning C4267: 'initializing': conversion from 'size_t' to 'u16', possible loss of data
+c:\users\spankarn\dropbox\projects\ipa\ipa\ipa\server_compiler.cpp(469): warning C4715: 'ServerFunctionCompiler::type_code': not all control paths return a value
+c:\users\spankarn\dropbox\projects\ipa\ipa\ipa\server_compiler.cpp(487): warning C4715: 'ServerFunctionCompiler::size_code': not all control paths return a value
+  IPA.vcxproj -> C:\Users\Spankarn\Dropbox\Projects\IPA\IPA\Debug\IPA.exe
+  IPA.vcxproj -> C:\Users\Spankarn\Dropbox\Projects\IPA\IPA\Debug\IPA.pdb (Partial PDB)
