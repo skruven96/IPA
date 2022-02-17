@@ -1,0 +1,18 @@
+
+my_type :: struct:
+    member: s32
+
+@export
+print :: (var: s32) -> void:
+    pass
+
+main :: (x: s32) -> s32:
+    @global
+    result := 0
+    for 0..4 as index:
+        print(123)
+    while x < 3:
+        result = result + 1
+    return result
+
+global := 123
